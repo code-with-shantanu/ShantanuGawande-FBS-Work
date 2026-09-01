@@ -7,4 +7,4 @@ if(s1==s2==s3):
 elif s1==s2 or s2==s3 or s1==s3 :
     print('Triangle is Isosceles Triangle')
 else:
-    print('Triangel is Scalene Triangle')
+    print('Triangle is Scalene Triangle')
