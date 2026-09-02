@@ -14,5 +14,4 @@ print(temp)
 if temp == num:
     print('Given Number is Palindrome')
 else:
-    print('Not Palindrome')
-
+    print('Given Number is Not Palindrome')
